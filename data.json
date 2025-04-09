@@ -1,0 +1,16 @@
+[
+    {
+        "english": "hello",
+        "tagalog": "kumusta",
+        "cebuano": "hello",
+        "hiligaynon": "hello",
+        "meaning_english": "a greeting",
+        "meaning_tagalog": "isang pagbati",
+        "meaning_cebuano": "usa ka pagpangumusta",
+        "meaning_hiligaynon": "isa ka pagpangumusta",
+        "example_english": "Hello, how are you?",
+        "example_tagalog": "Kumusta ka na?",
+        "example_cebuano": "Hello, kumusta ka?",
+        "example_hiligaynon": "Hello, kamusta ka?"
+    }
+  ]
